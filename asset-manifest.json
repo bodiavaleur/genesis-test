@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/genesis-test/static/js/main.56548a23.chunk.js",
+    "main.js.map": "/genesis-test/static/js/main.56548a23.chunk.js.map",
+    "runtime-main.js": "/genesis-test/static/js/runtime-main.9f3d81ff.js",
+    "runtime-main.js.map": "/genesis-test/static/js/runtime-main.9f3d81ff.js.map",
+    "static/js/2.8279219f.chunk.js": "/genesis-test/static/js/2.8279219f.chunk.js",
+    "static/js/2.8279219f.chunk.js.map": "/genesis-test/static/js/2.8279219f.chunk.js.map",
+    "index.html": "/genesis-test/index.html",
+    "static/js/2.8279219f.chunk.js.LICENSE.txt": "/genesis-test/static/js/2.8279219f.chunk.js.LICENSE.txt",
+    "static/media/burger-close.f1510c4e.svg": "/genesis-test/static/media/burger-close.f1510c4e.svg",
+    "static/media/burger-menu.4cc3cba4.svg": "/genesis-test/static/media/burger-menu.4cc3cba4.svg",
+    "static/media/hand.356cfb67.svg": "/genesis-test/static/media/hand.356cfb67.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9f3d81ff.js",
+    "static/js/2.8279219f.chunk.js",
+    "static/js/main.56548a23.chunk.js"
+  ]
+}
