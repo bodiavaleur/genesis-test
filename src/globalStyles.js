@@ -7,6 +7,10 @@ export const GlobalStyle = createGlobalStyle`
     --semi-orange: #FFF3EB;
     --orange-light: #FFAC70;
     --orange-dark: #E87928;
+    --green-solid: #47D867;
+    --green-light: #E6FAEA;
+    --red-solid: #EC6259;
+    --red-light: #FDEEED;
     --bg-gray: #F5F5F7;
     --border: #D0D0D8;
     --text-black: #1C1C21;
@@ -32,9 +36,9 @@ export const GlobalStyle = createGlobalStyle`
     display: flex;
   }
 
-  @media screen and (min-width: 1440px) {
+  @media screen and (min-width: 1024px) {
     html {
-      font-size: 24px;
+      font-size: 20px;
     }
   }
 
