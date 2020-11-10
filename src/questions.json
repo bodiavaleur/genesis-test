@@ -1,0 +1,134 @@
+[
+  {
+    "question": "test",
+    "answers": {
+      "a": "test",
+      "b": "test",
+      "c": "test",
+      "d": "test"
+    },
+    "rightAnswers": ["a", "b"],
+    "prize": 500
+  },
+  {
+    "question": "test",
+    "answers": {
+      "a": "test",
+      "b": "test",
+      "c": "test",
+      "d": "test"
+    },
+    "rightAnswers": ["a", "b"],
+    "prize": 1000
+  },
+  {
+    "question": "test",
+    "answers": {
+      "a": "test",
+      "b": "test",
+      "c": "test",
+      "d": "test"
+    },
+    "rightAnswers": ["a", "b"],
+    "prize": 2000
+  },
+  {
+    "question": "test",
+    "answers": {
+      "a": "test",
+      "b": "test",
+      "c": "test",
+      "d": "test"
+    },
+    "rightAnswers": ["a", "b"],
+    "prize": 4000
+  },
+  {
+    "question": "test",
+    "answers": {
+      "a": "test",
+      "b": "test",
+      "c": "test",
+      "d": "test"
+    },
+    "rightAnswers": ["a", "b"],
+    "prize": 8000
+  },
+  {
+    "question": "test",
+    "answers": {
+      "a": "test",
+      "b": "test",
+      "c": "test",
+      "d": "test"
+    },
+    "rightAnswers": ["a", "b"],
+    "prize": 16000
+  },
+  {
+    "question": "test",
+    "answers": {
+      "a": "test",
+      "b": "test",
+      "c": "test",
+      "d": "test"
+    },
+    "rightAnswers": ["a", "b"],
+    "prize": 32000
+  },
+  {
+    "question": "test",
+    "answers": {
+      "a": "test",
+      "b": "test",
+      "c": "test",
+      "d": "test"
+    },
+    "rightAnswers": ["a", "b"],
+    "prize": 64000
+  },
+  {
+    "question": "test",
+    "answers": {
+      "a": "test",
+      "b": "test",
+      "c": "test",
+      "d": "test"
+    },
+    "rightAnswers": ["a", "b"],
+    "prize": 125000
+  },
+  {
+    "question": "test",
+    "answers": {
+      "a": "test",
+      "b": "test",
+      "c": "test",
+      "d": "test"
+    },
+    "rightAnswers": ["a", "b"],
+    "prize": 250000
+  },
+  {
+    "question": "test",
+    "answers": {
+      "a": "test",
+      "b": "test",
+      "c": "test",
+      "d": "test"
+    },
+    "rightAnswers": ["a", "b"],
+    "prize": 500000
+  },
+  {
+    "question": "test",
+    "answers": {
+      "a": "test",
+      "b": "test",
+      "c": "test",
+      "d": "test"
+    },
+    "rightAnswers": ["a", "b"],
+    "prize": 1000000
+  }
+]
