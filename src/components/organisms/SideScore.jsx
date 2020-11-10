@@ -1,11 +1,10 @@
 import React from "react";
 import styled from "styled-components";
-import { Option } from "../atoms";
-import { List } from "../molecules";
+import { PrizeList } from "../organisms";
 
 const SideScoreUI = styled.aside`
   display: flex;
-  width: 23.5rem;
+  width: 20rem;
   height: 100%;
   align-items: center;
   background: var(--white);
@@ -14,14 +13,7 @@ const SideScoreUI = styled.aside`
 export function SideScore() {
   return (
     <SideScoreUI>
-      <List>
-        <Option />
-        <Option />
-        <Option />
-        <Option />
-        <Option />
-        <Option />
-      </List>
+      <PrizeList />
     </SideScoreUI>
   );
 }
