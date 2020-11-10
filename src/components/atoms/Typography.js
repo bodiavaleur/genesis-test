@@ -16,3 +16,8 @@ export const ScoreLabel = styled.h4`
   font-size: 1.25rem;
   opacity: 0.5;
 `;
+
+export const AnswersTip = styled.p`
+  font-size: 0.75rem;
+  opacity: 0.75;
+`;
