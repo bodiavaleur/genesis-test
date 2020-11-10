@@ -6,9 +6,21 @@ const ListUI = styled.ul`
   max-width: 40rem;
   flex-flow: row wrap;
   justify-content: center;
+  align-self: center;
   list-style: none;
+
+  ${({ menu }) =>
+    menu &&
+    `
+    max-width: 20rem;
+    margin: auto 0;
+  `}
 `;
 
-export function List({ children }) {
-  return <ListUI>{children}</ListUI>;
+export function List(props) {
+  return (
+    <>
+      <ListUI {...props}>{props.children}</ListUI>
+    </>
+  );
 }
