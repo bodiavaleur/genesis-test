@@ -62,7 +62,7 @@ export function GamePanel({
         </>
       )}
 
-      {gameOver && <Redirect to='/results' />}
+      {gameOver && <Redirect to={process.env.PUBLIC_URL + "/results"} />}
     </>
   );
 }

@@ -39,7 +39,7 @@ export function OverviewMenu({ title, buttonLabel, redirectTo, score }) {
         <Button onClick={handleClick}>{buttonLabel}</Button>
       </OverviewMenuUI>
 
-      {clicked && <Redirect to={redirectTo} />}
+      {clicked && <Redirect to={process.env.PUBLIC_URL + redirectTo} />}
     </>
   );
 }

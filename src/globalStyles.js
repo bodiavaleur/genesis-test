@@ -36,7 +36,7 @@ export const GlobalStyle = createGlobalStyle`
     display: flex;
   }
 
-  @media screen and (min-width: 1024px) {
+  @media screen and (min-width: 1440px) {
     html {
       font-size: 20px;
     }
